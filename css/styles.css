@@ -35,7 +35,7 @@ body {
     text-transform: uppercase;
 }
 
-.header-logo span {
+.header-logo-span {
     color: var(--primary-black-color);
 }
 
@@ -52,8 +52,11 @@ body {
     color: #404bbf;
 }
 
-.header-address-link {
+.header-address {
     font-style: normal;
+}
+
+.header-address-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -176,7 +179,7 @@ body {
     text-transform: uppercase;
 }
 
-.footer-logo span {
+.footer-logo-span {
     color: var(--primary-white-color);
 }
 
